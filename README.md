@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/uiFiHHX.png)](https://github.com/PitchAbyss)
-<h1 align="center">Hi 👋, I'm Pitch Abyss</h1>
+<h1 align="center">Hi 👋, I'm Lazy Code</h1>
 <h3 align="center">I Just Like To Tinker</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/FRuYerx.gif">
 

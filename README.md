@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/uiFiHHX.png)](https://github.com/PitchAbyss)
+[![MasterHead](https://i.imgur.com/uiFiHHX.png)](https://github.com/iamlazycode)
 <h1 align="center">Hi 👋, I'm Lazy Code</h1>
 <h3 align="center">I Just Like To Tinker</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/FRuYerx.gif">
@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamlazycode&show_icons=true&locale=en&layout=compact" alt="iamlazycode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pitchabyss&show_icons=true&locale=en" alt="pitchabyss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlazycode&show_icons=true&locale=en" alt="iamlazycode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pitchabyss&" alt="pitchabyss" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamlazycode&" alt="iamlazycode" /></p>

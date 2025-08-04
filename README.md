@@ -3,7 +3,7 @@
 <h3 align="center">I Just Like To Tinker</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/FRuYerx.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pitchabyss&label=Profile%20views&color=0e75b6&style=flat" alt="pitchabyss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamlazycode&label=Profile%20views&color=0e75b6&style=flat" alt="iamlazycode" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ydvadi_" target="blank"><img src="https://img.shields.io/twitter/follow/ydvadi_?logo=twitter&style=for-the-badge" alt="ydvadi_" /></a> </p>
 
